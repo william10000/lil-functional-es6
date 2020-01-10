@@ -1,0 +1,16 @@
+{
+  "name": "functional-es6",
+  "version": "1.0.0",
+  "description": "functional-es6 tutorial from linkedin learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/node": "^7.7.7",
+    "@babel/preset-env": "^7.7.7"
+  }
+}
